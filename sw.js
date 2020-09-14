@@ -3,9 +3,14 @@
 const CACHE_NAME = 'v1_cache_bitacle',
   urlsToCache = [
     './',
+    'https://use.fontawesome.com/releases/v5.3.1/css/all.css',
+    'https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css',
+    'https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css',
+    'https://fonts.googleapis.com/css?family=Oswald',
+    'https://fonts.googleapis.com/css?family=Open+Sans',
     './style.css',
     './script.js',
-    './img/logo.png'
+    './img/logo.png',
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
