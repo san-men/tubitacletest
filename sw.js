@@ -1,7 +1,6 @@
 ;
 //asignar un nombre y versión al cache
 const CACHE_NAME = 'v1_cache_programador_fitness',
-',
   urlsToCache = [
     './',
     'https://use.fontawesome.com/releases/v5.3.1/css/all.css',
